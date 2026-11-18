@@ -1,13 +1,4 @@
-/*
-SET A - Scenario A1: Online Store Inventory Update
-Database: shopDB
-Collection: products
 
-Run this file in MongoDB Shell (mongosh):
-  mongosh < A1_Online_Store_Inventory.js
-
-The script drops the products collection first so it can be run repeatedly.
-*/
 
 use shopDB
 
